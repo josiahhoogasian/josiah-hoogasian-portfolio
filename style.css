@@ -9,7 +9,7 @@
   --max: 1060px;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     --bg: #0f1419;
     --surface: #171e26;
